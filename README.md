@@ -1,6 +1,6 @@
 ### Hi, I'm Mario 👋👨‍💻
 
-![me](https://avatars.githubusercontent.com/u/15183405?v=4)
+<!-- ![me](https://avatars.githubusercontent.com/u/15183405?v=4)-->
 
 ```js
 const crazymacer = {
