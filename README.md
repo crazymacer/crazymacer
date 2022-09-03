@@ -6,7 +6,7 @@
 const crazymacer = {
   pronouns: "he" | "him",
   code: [C#, Javascript, Typescript, HTML, CSS],
-  tools: [React, Angular, Node, Docker],
+  tools: [React, Angular, Node, Docker, Visual Studio, VS Code],
 }
 ```
 <!--
